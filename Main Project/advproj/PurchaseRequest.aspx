@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script src="ResourceFiles/jquery.min.js"></script>
     <script src="ResourceFiles/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="CSS/EProcStyleSheet.css" />
+    <link rel="stylesheet" type="text/css" href="style/StyleSheet1.css" />
     <script>
         $(document).ready(function ()
         {
@@ -70,27 +70,36 @@
                 </tr>
 
                 <tr>
-                    <td colspan="3" style="text-align: center; grid-row-align:center;">
+                    <td class="FieldLabels">
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
+                </tr>
+
+                <tr>                                  
+                    <td colspan="3" style="text-align: center; grid-row-align:center; width:inherit;">
                         <asp:GridView ID="ItemDetailsGrid" runat="server" AutoGenerateColumns="False" AutoGenerateEditButton="True" CellPadding="4" OnRowEditing="ItemDetailsGrid_RowEditing" OnRowUpdating="ItemDetailsGrid_RowUpdating" OnRowCancelingEdit="ItemDetailsGrid_RowCancelingEdit" Visible="False">
                             <FooterStyle BackColor="#FF6600" Font-Bold="True" ForeColor="White" Height="5px" />
 
-                            <HeaderStyle BackColor="#FF6600" />
+                            <HeaderStyle BackColor="#4379cb" />
 
                             <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
-                            <AlternatingRowStyle BackColor="#FBD8B5" />
+                            <AlternatingRowStyle BackColor="#99CCFF" />
                             <Columns>
-                                <asp:BoundField DataField="ItemName" HeaderText="Item Name" ReadOnly="true" />
+                                <asp:BoundField DataField="ItemName" HeaderText="Item Name"  ItemStyle-Width="100" ReadOnly="true"/>
                                 <asp:TemplateField HeaderText="Qty"
                                     ItemStyle-VerticalAlign="Top">
 
                                     <ItemTemplate>
-                                        <asp:Label ID="lblQuantity" runat="server" Text='<% #Eval("Qty") %>'></asp:Label>
+                                        <asp:Label ID="lblQuantity" Width="100" runat="server" Text='<% #Eval("Qty") %>'></asp:Label>
                                     </ItemTemplate>
 
                                     <EditItemTemplate>
                                         <asp:TextBox ID="txtQuantity"
                                             Text='<%#Eval("Qty")%>'
-                                            Width="90"
+                                            Width="100"
                                             runat="server" />
                                         <br />
 
@@ -103,13 +112,13 @@
                                     ItemStyle-VerticalAlign="Top">
 
                                     <ItemTemplate>
-                                        <asp:Label ID="lblReason" runat="server" Text='<%#Eval("Reason")%>'></asp:Label>
+                                        <asp:Label ID="lblReason" runat="server" Width="100" Text='<%#Eval("Reason")%>'></asp:Label>
                                     </ItemTemplate>
 
                                     <EditItemTemplate>
                                         <asp:TextBox ID="txtReason"
                                             Text='<%#Eval("Reason")%>'
-                                            Width="90"
+                                            Width="100"
                                             runat="server" />
                                         <br />
 
@@ -118,26 +127,16 @@
                                     <ItemStyle VerticalAlign="Top"></ItemStyle>
 
                                 </asp:TemplateField>
-                                <%--  <asp:TemplateField HeaderText="Quantity">
-                                    <asp:EditItemTemplate>
-                                        <asp:TextBox ID="txtQuantity" runat="server"
-                                            Text='<%# Bind("Qty") %>' BorderStyle="None"></asp:TextBox>
-
-                                    </asp:EditItemTemplate>
-                                </asp:TemplateField>--%>
-                                <%--   <asp:TemplateField HeaderText="Reason">
-                                    <asp:ItemTemplate>
-                                        <asp:TextBox ID="txtReason" runat="server"
-                                            Text='<%# Eval("Reason") %>' BorderStyle="None"></asp:TextBox>
-
-                                    </asp:ItemTemplate>
-                                </asp:TemplateField>--%>
                             </Columns>
-                        </asp:GridView>
-                        <br />
+                        </asp:GridView>                        
+                    </td>                                        
+                </tr>
 
-                        <br />
-                    </td>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td colspan="1" style="text-align: center; grid-row-align:center;">
+                        &nbsp;</td>
+                    <td>&nbsp;</td>
                 </tr>
                 <tr>
                     <td colspan="3" style="text-align: center">

@@ -226,6 +226,5 @@ C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Micr
 C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.ApplicationInsights.xml
 C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
 C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.dll
 C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.pdb

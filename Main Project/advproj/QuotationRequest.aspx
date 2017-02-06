@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <title>Quotation Request</title>
-    <link rel="stylesheet" type="text/css" href="CSS/EProcStyleSheet.css" />    
+    <link rel="stylesheet" type="text/css" href="style/StyleSheet1.css" />    
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -75,20 +75,20 @@
                     <td colspan="3" style="align-content:stretch;">
                         <asp:GridView ID="QuotationItemsGridView" runat="server" AutoGenerateEditButton="True" AutoGenerateColumns="False">
 
-                            <HeaderStyle BackColor="#FF6600" />
+                            <HeaderStyle BackColor="#4379cb" />
                             <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
-                            <AlternatingRowStyle BackColor="#FBD8B5" />
+                            <AlternatingRowStyle BackColor="#99CCFF" />
 
                             <Columns>
-                                <asp:BoundField DataField="ItemName" HeaderText="Item Name" ReadOnly="true" />
+                                <asp:BoundField DataField="ItemName" HeaderText="Item Name"  ItemStyle-Width="100" ReadOnly="true" />
                                 
                                 <asp:TemplateField HeaderText="Qty" ItemStyle-VerticalAlign="Top">
                                     <ItemTemplate>
-                                        <asp:Label ID="lblQuantity" runat="server" Text='<% #Eval("Qty") %>'></asp:Label>
+                                        <asp:Label ID="lblQuantity" runat="server" Width="100" Text='<% #Eval("Qty") %>'></asp:Label>
                                     </ItemTemplate>
 
                                     <EditItemTemplate>
-                                        <asp:TextBox ID="txtQuantity" Text='<%#Eval("Qty")%>' Width="90" runat="server" />
+                                        <asp:TextBox ID="txtQuantity" Text='<%#Eval("Qty")%>' Width="100" runat="server" />
                                     </EditItemTemplate>
 
                                     <ItemStyle VerticalAlign="Top"></ItemStyle>
@@ -96,13 +96,8 @@
 
                                 <asp:TemplateField HeaderText="Reason" ItemStyle-VerticalAlign="Top">
                                     <ItemTemplate>
-                                        <asp:Label ID="lblReason" runat="server" Text='<%#Eval("Reason")%>'></asp:Label>
+                                        <asp:Label ID="lblReason" runat="server" Width="100" Text='<%#Eval("Reason")%>'></asp:Label>
                                     </ItemTemplate>
-
-                                    <%--<EditItemTemplate>
-                                        <asp:TextBox ID="txtReason" Text='<%#Eval("Reason")%>' Width="90" runat="server" />
-                                    </EditItemTemplate>
-                                    --%>
                                     <ItemStyle VerticalAlign="Top"></ItemStyle>
                                 </asp:TemplateField>
 

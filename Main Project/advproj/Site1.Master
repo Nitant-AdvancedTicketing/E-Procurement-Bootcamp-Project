@@ -47,7 +47,7 @@
                 </li>
                 <li class="dropdown"><a>Purchase Order</a>
                     <ul class="dropdown-content dropdown-listing">
-                        <li><a href="PlaceOrder.aspx">Place Order</a></li>
+                        <li><a href="Place_Order.aspx">Place Order</a></li>
                         <li><a href="ViewOrder.aspx">View Order</a></li>
                     </ul>
                 </li>                    

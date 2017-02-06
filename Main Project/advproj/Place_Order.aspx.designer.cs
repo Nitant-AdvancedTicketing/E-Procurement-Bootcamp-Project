@@ -10,7 +10,7 @@
 namespace advproj {
     
     
-    public partial class PlaceOrder {
+    public partial class Place_Order {
         
         /// <summary>
         /// form1 control.
@@ -67,6 +67,15 @@ namespace advproj {
         protected global::System.Web.UI.WebControls.TextBox Quotation_IDTextBox;
         
         /// <summary>
+        /// ValidQuotationLabel control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label ValidQuotationLabel;
+        
+        /// <summary>
         /// RequiredFieldValidator2 control.
         /// </summary>
         /// <remarks>
@@ -74,33 +83,6 @@ namespace advproj {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
-        
-        /// <summary>
-        /// PR_IDLabel control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label PR_IDLabel;
-        
-        /// <summary>
-        /// PR_IDTextBox control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox PR_IDTextBox;
-        
-        /// <summary>
-        /// RequiredFieldValidator3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
         
         /// <summary>
         /// Vendor_TypeLabel control.
@@ -121,6 +103,15 @@ namespace advproj {
         protected global::System.Web.UI.WebControls.DropDownList Vendor_TypeDropDown;
         
         /// <summary>
+        /// VendorTypeSQLDS control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource VendorTypeSQLDS;
+        
+        /// <summary>
         /// Vendor_NameLabel control.
         /// </summary>
         /// <remarks>
@@ -139,31 +130,13 @@ namespace advproj {
         protected global::System.Web.UI.WebControls.DropDownList Vendor_NameDropDown;
         
         /// <summary>
-        /// ItemLabel control.
+        /// PlaceOrderGridView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label ItemLabel;
-        
-        /// <summary>
-        /// ItemListBox control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ListBox ItemListBox;
-        
-        /// <summary>
-        /// RequiredFieldValidator4 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator4;
+        protected global::System.Web.UI.WebControls.GridView PlaceOrderGridView;
         
         /// <summary>
         /// SendPOButton control.

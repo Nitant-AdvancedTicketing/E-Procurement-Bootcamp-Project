@@ -111,7 +111,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="PlaceOrder.aspx" />
+    <Content Include="Place_Order.aspx" />
     <Content Include="PurchaseRequest.aspx" />
     <Content Include="QuotationRequest.aspx" />
     <Content Include="RequestItem.aspx" />
@@ -226,12 +226,12 @@
     <Compile Include="MaintainVendorList.aspx.designer.cs">
       <DependentUpon>MaintainVendorList.aspx</DependentUpon>
     </Compile>
-    <Compile Include="PlaceOrder.aspx.cs">
-      <DependentUpon>PlaceOrder.aspx</DependentUpon>
+    <Compile Include="Place_Order.aspx.cs">
+      <DependentUpon>Place_Order.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="PlaceOrder.aspx.designer.cs">
-      <DependentUpon>PlaceOrder.aspx</DependentUpon>
+    <Compile Include="Place_Order.aspx.designer.cs">
+      <DependentUpon>Place_Order.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PurchaseRequest.aspx.cs">
