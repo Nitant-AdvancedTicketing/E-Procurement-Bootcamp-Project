@@ -1,0 +1,65 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="advproj.Site1" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>one advanced</title>
+    <link href="style/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+       
+    </style>
+</head>
+<body>    
+    <header>
+        <div>
+            <img src="style/advanced_logo.png" height="100" width="150"/>
+        </div>
+        <div>
+            <h1 class="main-title" >Advanced Purchase Order Processing</h1>
+        </div>
+    </header>
+    <section style="margin-top: -102px;">
+        <div>
+            <ul class="nav-bar" style="background-color: #86bed4;">
+                 <li class="dropdown"><a>Administration</a>
+                    <ul class="dropdown-content dropdown-listing">
+                        <li><a href="MaintainUserList.aspx">User Maintainance</a></li>
+                        <li><a href="MaintainRoleList.aspx">Role Maintainance</a></li>
+                        <li><a href="DepartmentDetails.aspx">Department Maintainance</a></li>
+                        <li><a href="MaintainItemList.aspx">Item Maintainance</a></li>
+                        <li><a href="MaintainVendorList.aspx">Vendor Maintainance</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a>Requisition</a>
+                    <ul class="dropdown-content dropdown-listing">
+                        <li><a href="RequestItem.aspx">Request Item</a></li>
+                        <li><a href="RequestReview.aspx">Request Review</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown"><a>Quotation</a>
+                    <ul class="dropdown-content dropdown-listing">
+                        <li><a href="QuotationRequest.aspx">Add Quotation</a></li>
+                        <li><a href="UpdateQuotation.aspx">Update Quotation</a></li>
+                        <li><a href="ReviewQuotation.aspx">Quotation Approval</a></li>
+
+                    </ul>
+                </li>
+                <li class="dropdown"><a>Purchase Order</a>
+                    <ul class="dropdown-content dropdown-listing">
+                        <li><a href="PlaceOrder.aspx">Place Order</a></li>
+                        <li><a href="ViewOrder.aspx">View Order</a></li>
+                    </ul>
+                </li>                    
+            </ul>
+        </div>            
+    </section>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>        
+	<footer class="footer-style">
+  		<div>@Copyright-Advanced Business & Healthcare Solutions India Pvt Ltd-Bangalore</div>
+  	</footer>
+</body>
+</html>
+   

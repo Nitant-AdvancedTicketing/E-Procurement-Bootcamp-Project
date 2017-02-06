@@ -1,0 +1,231 @@
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\ApplicationInsights.config
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\csc.exe
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\vbc.exe
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\advproj.dll.config
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\advproj.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\advproj.pdb
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\obj\Debug\advproj.dll
+C:\Users\swati.verma\documents\visual studio 2015\Projects\advproj\advproj\obj\Debug\advproj.pdb
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\ApplicationInsights.config
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\csc.exe
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\vbc.exe
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\advproj.dll.config
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\advproj.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\advproj.pdb
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\obj\Debug\advproj.dll
+C:\Users\Swati-pc\Desktop\swati\advproj\advproj\obj\Debug\advproj.pdb
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\ApplicationInsights.config
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\csc.exe
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\vbc.exe
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\advproj.dll.config
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\advproj.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\advproj.pdb
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\obj\Debug\advproj.dll
+C:\Users\yashaswini.basavaraj\Desktop\proj\advproj\advproj\advproj\obj\Debug\advproj.pdb
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\ApplicationInsights.config
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\csc.exe
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\vbc.exe
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\advproj.dll.config
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\advproj.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\advproj.pdb
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\obj\Debug\advproj.dll
+C:\Users\swati.verma\Desktop\proj\master\advproj\advproj\advproj\obj\Debug\advproj.pdb
+G:\master\advproj\advproj\advproj\bin\ApplicationInsights.config
+G:\master\advproj\advproj\advproj\bin\roslyn\csc.exe
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\master\advproj\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\master\advproj\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+G:\master\advproj\advproj\advproj\bin\roslyn\vbc.exe
+G:\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+G:\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+G:\master\advproj\advproj\advproj\bin\advproj.dll.config
+G:\master\advproj\advproj\advproj\bin\advproj.dll
+G:\master\advproj\advproj\advproj\bin\advproj.pdb
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.xml
+G:\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+G:\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+G:\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\master\advproj\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+G:\master\advproj\advproj\advproj\obj\Debug\advproj.dll
+G:\master\advproj\advproj\advproj\obj\Debug\advproj.pdb
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\ApplicationInsights.config
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\csc.exe
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\vbc.exe
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\advproj.dll.config
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\advproj.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\advproj.pdb
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\obj\Debug\advproj.dll
+C:\Users\yashaswini.basavaraj\Desktop\master\advproj\advproj\advproj\obj\Debug\advproj.pdb
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\ApplicationInsights.config
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\csc.exe
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\vbc.exe
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\VBCSCompiler.exe
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\advproj.dll.config
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\advproj.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\advproj.pdb
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.Web.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.Web.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.csprojResolveAssemblyReference.cache
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.dll
+C:\Users\nitant.trivedi\Documents\Demo Project\advproj 6-2-2017\advproj\obj\Debug\advproj.pdb

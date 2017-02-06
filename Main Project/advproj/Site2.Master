@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="advproj.Site2" %>
+
+<!DOCTYPE html>
+<head runat="server">
+    
+    <title>one advanced</title>
+    <link href="style/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    <form id="form1" runat="server">
+        <div>
+
+            <header>
+                <div>
+                    <img src="style/advanced_logo.png" height="100" width="150" />
+                    <br />
+                </div>
+                <div>
+                    <h1 class="main-title">Advanced Purchase Order Processing</h1>
+                </div>
+
+            </header>
+            <section style="margin-top: -102px;">
+
+                <div class="nav-bar" style="background-color: #86bed4">
+                    <pre>
+                </pre>
+
+                </div>
+
+
+            </section>
+            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:contentplaceholder>
+        </div>
+        
+    <section>
+	<footer class="footer-style">
+  		@Copyright-Advanced Business & Healthcare Solutions India Pvt Ltd-Bangalore
+  	</footer>
+    </section>
+     </form>
+
+   
+</html>
